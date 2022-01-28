@@ -12,9 +12,13 @@ CodeAcademy Portfolio - Mixed Messages
     - Git version Control
     - Command Line
 
- ---- TOPIC: 'Butchered'Movie Quotes----
+ ---- TOPIC: 'Butchered' Movie Quotes----
     - 'No, I am your father!'
     - 'RAAARGH, Get to the Chopper!'
     - 'Uh say Jarvis, is it that time?'
 */
 
+// Define Quotes in Arrays
+const quote1 = ["No,", " I am your ", " father!"]
+const quote2 = ["RAAARGH,", " Get to the ", "Chopper!"]
+const quote3 = ["Uh say Jarvis,", " is it that ", "time?"]
