@@ -22,3 +22,7 @@ CodeAcademy Portfolio - Mixed Messages
 const quote1 = ["No,", " I am your ", " father!"]
 const quote2 = ["RAAARGH,", " Get to the ", "Chopper!"]
 const quote3 = ["Uh say Jarvis,", " is it that ", "time?"]
+
+const MessageRandomizer = (quote1, quote2, quote3) => {
+   
+}
